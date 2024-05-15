@@ -10,9 +10,9 @@ Alassane WADE Haunted-House
 
 Created an Haunted-House as a website using HTML, CSS, and JavaScript.
 
-<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="https://github.com/alassane8/Haunted-House/tree/main/code/images/haunted-house.PNG">
+<img width="1306" alt="Haunted-House" src="https://github.com/alassane8/Haunted-House/blob/main/code/images/haunted-house.PNG">
 
-## Instructions
+## Website
 https://haunted-aw.vercel.app/
 
 ## Area for improvement
